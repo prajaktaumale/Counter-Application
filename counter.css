@@ -1,0 +1,34 @@
+body{
+    background-color: antiquewhite;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.col-md-6{
+    border: 8px solid #000000;
+    display: inline-block;
+    margin: 200px;
+    text-align: center;
+    padding: 30px;
+}
+button{
+    margin: 20px;
+    border: 2px solid black;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+}
+h1{
+    font-weight: bolder;
+    margin: 20px;
+}
+.btn1{
+    background-color: darkcyan;
+}
+.btn2{
+    background-color: darkolivegreen;
+}
+.btn3{
+    background-color: darkslategrey;
+}
